@@ -1,6 +1,6 @@
 # 🚀 Interstellar Plan: Engineering Humanity's Journey to the Stars
 
-> **Mission Statement:** A comprehensive technical blueprint for achieving relativistic interstellar travel at 1–10% the speed of light using existing or near-term technology.
+> **Mission Statement:** A comprehensive technical blueprint for achieving relativistic interstellar travel at 1–95% the speed of light, from near-term laser sails to beam-core antimatter starships.
 
 ---
 
@@ -16,6 +16,7 @@
   - [Radiation & Impact Shielding](#radiation--impact-shielding)
   - [Artificial Gravity](#artificial-gravity)
 - [The Antimatter Upgrade (Generation 2)](#the-antimatter-upgrade-generation-2)
+- [The Starship Prometheus (Generation 3)](#the-starship-prometheus-generation-3)
 - [Cost Analysis](#cost-analysis)
 - [Global Collaboration Strategy](#global-collaboration-strategy)
 - [Repository Structure](#repository-structure)
@@ -27,7 +28,7 @@
 
 ## 🌌 Overview
 
-This repository contains a detailed engineering analysis and implementation plan for humanity's first interstellar missions. The project explores two fundamentally different but equally viable approaches to reaching **1% of light speed** (approximately **3,000 kilometers per second**), the minimum velocity required for meaningful interstellar travel within human timescales — and a **Generation 2 upgrade** using antimatter-catalyzed fusion that pushes to **10% of light speed**, enabling single-lifetime voyages.
+This repository contains a detailed engineering analysis and implementation plan for humanity's first interstellar missions. The project explores two fundamentally different but equally viable approaches to reaching **1% of light speed** (approximately **3,000 kilometers per second**), a **Generation 2 upgrade** using antimatter-catalyzed fusion that pushes to **10% of light speed**, and a **Generation 3 starship design** — the *Prometheus* — that reaches **95% of light speed**, arriving at Proxima Centauri in **5.9 years**.
 
 ### Why 1% Light Speed?
 
@@ -180,6 +181,24 @@ The **Gemini Tethered Centrifuge** provides 1g gravity during the cruise phase:
 
 ---
 
+## 🚀 The Starship Prometheus (Generation 3)
+
+**The fastest physically possible crewed mission.** A 2.2 km "skyscraper" spacecraft powered by a beam-core antimatter engine, accelerating at 1$g$ continuously. The crew feels Earth-normal gravity the entire trip — no centrifuge needed.
+
+| | Gen 1 | Gen 2 | **Gen 3 (Prometheus)** |
+|---|---|---|---|
+| **Speed** | 1% $c$ | 10% $c$ | **95% $c$** |
+| **Trip time (Earth)** | ~440 years | ~45 years | **~5.9 years** |
+| **Trip time (Ship)** | ~440 years | ~45 years | **~3.6 years** |
+| **Ship shape** | Flat sail + pods | Sail + engine | **2.2 km skyscraper** |
+| **Gravity** | Centrifuge | Centrifuge | **Engine thrust** |
+| **Antimatter** | 0 | 10.4 mg | **8,600 tons** |
+| **Earliest feasible** | 2040s | 2070s | **2130s** |
+
+📄 **Full details:** [starship_prometheus.md](starship_prometheus.md)
+
+---
+
 ## 💰 Cost Analysis
 
 | Component | Cost (Single Nation) | Cost (Global Collaboration) |
@@ -207,6 +226,7 @@ Interstellar_Plan-/
 ├── deceleration_strategy.md            # ★ How to stop: staged sail + magsail
 ├── radiation_shielding.md              # ★ 4-layer defense against ISM radiation
 ├── antimatter_upgrade_path.md          # ★ Gen 2: AcICF engine for 10% c
+├── starship_prometheus.md              # ★★ Gen 3: Beam-core antimatter, 95% c, full ship design
 ├── artificial_gravity_addendum.md      # Gemini tethered centrifuge system
 ├── cost_analysis.md                    # Financial breakdown ($1-3.5T)
 ├── global_collaboration_strategy.md    # ISRO/SpaceX/ESA collaboration model
@@ -214,7 +234,7 @@ Interstellar_Plan-/
 └── *.png                              # Concept art and visualizations
 ```
 
-*★ = New documents completing the mission architecture*
+*★ = Mission architecture completion · ★★ = Ultimate starship design*
 
 ---
 
