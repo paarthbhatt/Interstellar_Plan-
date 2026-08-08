@@ -341,6 +341,8 @@ At the halfway point (~2.12 light-years from both Earth and Proxima), the ship m
 - **Maximum vulnerability** — if the engine fails to restart, the ship flies past Proxima at 0.95$c$ with no way to stop
 - **Contingency:** Secondary engine on the opposite end of the truss (can decelerate without flipping, at reduced thrust)
 
+![Midpoint Flip Maneuver](midpoint_flip_maneuver.png)
+
 ---
 
 ## 5. Materials & Construction

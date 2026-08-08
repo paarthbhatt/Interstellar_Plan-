@@ -245,6 +245,10 @@ Interstellar_Plan-/
 | ![Prometheus Exterior](prometheus_starship_exterior.png) | **Gen 3:** The 2.2 km Starship Prometheus at 0.95c |
 | ![Engine Nozzle](prometheus_engine_nozzle.png) | **Gen 3 Engine:** 10 Tesla Beam-Core Antimatter Nozzle |
 | ![Command Bridge](prometheus_bridge_deck.png) | **Gen 3 Bridge:** Command deck during relativistic flight |
+| ![Midpoint Flip](midpoint_flip_maneuver.png) | **Gen 3 Maneuver:** 180° Midpoint Flip at 2.12 light-years |
+| ![Forward Para-Lens](forward_paralens_concept.png) | **Infrastructure:** 1,000 km Fresnel Para-Lens at 500 AU |
+| ![Magsail Braking](magsail_braking_concept.png) | **Deceleration:** 100 km Superconducting Magsail Magnetosphere |
+| ![Shield Impact](radiation_shield_impact.png) | **Shielding:** 5m Composite Nose Shield resisting 0.95c impacts |
 | ![Habitat](gemini_habitat_closeup_1769253476095.png) | **Gen 1:** The Corrugated Clipper exterior |
 | ![Arrival](proxima_arrival_concept_1769253493195.png) | **Gen 1:** Arrival at Proxima Centauri |
 

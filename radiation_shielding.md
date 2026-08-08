@@ -119,6 +119,8 @@ We employ a **four-layer** shielding system, each layer addressing a different t
                     [CREW HABITAT]
 ```
 
+![Radiation Shield Impact](radiation_shield_impact.png)
+
 ### 2.1 Layer 1: Electromagnetic Deflection (The Magsail)
 
 The 100 km superconducting coil deployed for deceleration (see `deceleration_strategy.md`) serves double duty as a forward radiation shield during the cruise phase.

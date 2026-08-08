@@ -110,6 +110,8 @@ A massive thin-film Fresnel zone plate positioned at ~500 AU from Earth (in the 
 
 > **Note:** The para-lens is the single most ambitious piece of infrastructure in this entire plan. However, it is a passive optic — once deployed, it works indefinitely for all future missions. It converts the Stellar Highway from a single-use system into permanent interstellar infrastructure.
 
+![Forward Para-Lens Concept](forward_paralens_concept.png)
+
 ### 2.5 Limitations
 
 - **Requires continuous laser operation** from Earth during the entire deceleration phase (~8 months of laser firing 4.24 light-years away, meaning the laser must fire for ~8 months starting ~4.24 years before the ship arrives)
@@ -126,6 +128,8 @@ A massive thin-film Fresnel zone plate positioned at ~500 AU from Earth (in the 
 Proposed by Robert Zubrin & Dana Andrews (1990), the magsail uses a large superconducting loop to generate a magnetic field that deflects the interstellar medium (ISM), creating drag.
 
 Think of it as **deploying a parachute in the interstellar wind** — except the "parachute" is a magnetic field and the "wind" is the thin plasma between the stars.
+
+![Magnetic Sail Magsail Braking Concept](magsail_braking_concept.png)
 
 ### 3.2 The Physics
 

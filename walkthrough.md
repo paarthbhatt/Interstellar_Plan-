@@ -74,6 +74,22 @@ Close-up of the 10 Tesla REBCO superconducting magnetic nozzle focusing charged 
 Interior view of the highest deck of the habitat during 0.95c relativistic transit. Panoramic viewports reveal heavily blue-shifted starlight ahead while holographic displays monitor antimatter confinement stability and Brachistochrone trajectory metrics.
 ![Prometheus Command Bridge](prometheus_bridge_deck.png)
 
+### Midpoint Flip-and-Burn Maneuver
+The 2.2 km starship Prometheus executing its 180° pitch rotation at 2.12 light-years from Earth. RCS nitrogen-plasma thrusters fire in zero-gravity as the ship transitions from acceleration to deceleration.
+![Midpoint Flip Maneuver](midpoint_flip_maneuver.png)
+
+### The 1,000 km Forward Para-Lens
+Positioned at 500 AU in the outer solar system, this thin-film Fresnel zone plate array collimates the 100 GW laser array beam across interstellar distances.
+![Forward Para-Lens Concept](forward_paralens_concept.png)
+
+### The 100 km Magnetic Sail (Magsail)
+A 100 km diameter superconducting loop carrying 100 kA current, creating a translucent magnetosphere bow shock that brakes against interstellar plasma.
+![Magnetic Sail Magsail Braking Concept](magsail_braking_concept.png)
+
+### Relativistic Radiation Shield Impact
+The 5-meter composite nose shield (water ice, boron carbide, and BNNT-UHMWPE) absorbing hypervelocity particle and interstellar dust impacts at 0.95c, generating micro-ionization flashes.
+![Radiation Shield Impact](radiation_shield_impact.png)
+
 ---
 
 ## 5. The Roadmap (Executive Summary)
