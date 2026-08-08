@@ -242,8 +242,11 @@ Interstellar_Plan-/
 
 | Image | Description |
 |-------|-------------|
-| ![Habitat](gemini_habitat_closeup_1769253476095.png) | The Corrugated Clipper exterior |
-| ![Arrival](proxima_arrival_concept_1769253493195.png) | Arrival at Proxima Centauri |
+| ![Prometheus Exterior](prometheus_starship_exterior.png) | **Gen 3:** The 2.2 km Starship Prometheus at 0.95c |
+| ![Engine Nozzle](prometheus_engine_nozzle.png) | **Gen 3 Engine:** 10 Tesla Beam-Core Antimatter Nozzle |
+| ![Command Bridge](prometheus_bridge_deck.png) | **Gen 3 Bridge:** Command deck during relativistic flight |
+| ![Habitat](gemini_habitat_closeup_1769253476095.png) | **Gen 1:** The Corrugated Clipper exterior |
+| ![Arrival](proxima_arrival_concept_1769253493195.png) | **Gen 1:** Arrival at Proxima Centauri |
 
 📄 **Full gallery:** [walkthrough.md](walkthrough.md)
 

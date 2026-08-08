@@ -60,10 +60,28 @@ Essential vertical farming systems for the long voyage.
 
 ---
 
-## 4. The Roadmap (Executive Summary)
-1.  **Immediate:** Build the 10 MW Pilot Array and test the Corrugated Sail in Low Earth Orbit.
-2.  **5 Years:** Launch "StarChip" probes to Alpha Centauri (20% $c$).
-3.  **15 Years:** Deploy the 100 GW Orbital Array for heavy cargo.
-4.  **30 Years:** Launch the Human Ark using the established laser infrastructure.
+## 4. Mission Gallery: Generation 3 (The Starship Prometheus - 0.95c)
 
-**Mission Status:** FEASIBILITY CONFIRMED.
+### Starship Exterior (The Skyscraper)
+The 2.2 km slender "skyscraper" starship traveling through deep space under continuous 1g acceleration. Note the glowing multi-layered forward dust shield, cylindrical habitat, 2 km carbon-nanotube truss, radiating heat fins, and the blinding violet-white pion plasma trail from the beam-core antimatter engine.
+![Starship Prometheus Exterior](prometheus_starship_exterior.png)
+
+### The Beam-Core Antimatter Engine
+Close-up of the 10 Tesla REBCO superconducting magnetic nozzle focusing charged pion plasma exhaust streams at 0.69c.
+![Beam-Core Antimatter Engine Nozzle](prometheus_engine_nozzle.png)
+
+### Relativistic Command Bridge
+Interior view of the highest deck of the habitat during 0.95c relativistic transit. Panoramic viewports reveal heavily blue-shifted starlight ahead while holographic displays monitor antimatter confinement stability and Brachistochrone trajectory metrics.
+![Prometheus Command Bridge](prometheus_bridge_deck.png)
+
+---
+
+## 5. The Roadmap (Executive Summary)
+1. **Immediate:** Build the 10 MW Pilot Array and test the Corrugated Sail in Low Earth Orbit.
+2. **5 Years:** Launch "StarChip" probes to Alpha Centauri (20% $c$).
+3. **15 Years:** Deploy the 100 GW Orbital Array for heavy cargo (Gen 1).
+4. **30 Years:** Launch Gen 1 Human Ark / Corrugated Clipper.
+5. **2070s:** Deploy Gen 2 Antimatter-Catalyzed Fusion ships (10% $c$, 45-year transit).
+6. **2130s:** Launch Gen 3 Prometheus Starship (95% $c$, 5.9-year transit to Proxima Centauri).
+
+**Mission Status:** COMPLETE THREE-GENERATION ARCHITECTURE ESTABLISHED.

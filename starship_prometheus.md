@@ -138,6 +138,8 @@ The Prometheus is not shaped like a traditional spacecraft (capsule, saucer, or 
 
 3. **Maximum distance from engine**: The annihilation engine produces intense gamma radiation. By placing the crew 2+ km from the engine (connected by a structural truss), the inverse-square law reduces radiation to safe levels.
 
+![The Starship Prometheus Exterior](prometheus_starship_exterior.png)
+
 ### 3.2 Overall Dimensions
 
 ```
@@ -240,6 +242,8 @@ This is **GeV-class radiation** — far more intense than at 0.01$c$ (47 keV). T
 | **Deck 5** | Science lab & mission planning (telescopes, spectrometers, AI systems) | 6 m |
 | **Deck 6 (highest)** | Bridge & navigation (forward observation port through shield periscope) | 8 m |
 
+![Prometheus Command Bridge](prometheus_bridge_deck.png)
+
 > **Note on gravity:** During the 1$g$ acceleration phase (first half of the journey), "down" is toward the engine (aft). At midpoint, the ship flips 180° — **"down" reverses direction** as the engine now points forward for deceleration. The crew feels continuous 1$g$ throughout, but the "floor" and "ceiling" swap at the flip. All furniture, equipment, and plumbing must be designed for **bidirectional operation**. This is the defining architectural challenge of the Brachistochrone ship.
 
 **Solution: Symmetrical deck design.** Each deck has fixtures on both the floor and ceiling. During the flip (which takes ~30 minutes using RCS thrusters), the crew straps in. When deceleration begins, they simply use the "other" floor.
@@ -313,6 +317,8 @@ The radiators extend perpendicular to the thrust axis (sideways), where they pre
 | **Shadow shield** | 20 cm tungsten disk, 20m diameter, directly behind nozzle |
 | **Thrust vectoring** | ±5° via asymmetric magnetic field adjustment |
 | **Backup** | 2 complete engine units (redundancy) |
+
+![Beam-Core Antimatter Magnetic Nozzle](prometheus_engine_nozzle.png)
 
 ---
 
